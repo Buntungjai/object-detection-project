@@ -1,7 +1,7 @@
 
-# เน้นโปรเจคงานทางด้าน AI (computer vision)
+# โปรเจคงานทางด้าน AI (computer vision)
 
-A brief description of what this project does and who it's for
+สนุกไปกับการเรียนรู้อะไรใหม่ๆ
 
 
 ## Acknowledgements
@@ -13,8 +13,36 @@ A brief description of what this project does and who it's for
 
 ## FAQ
 
+#### ผู้เขียน github นี้จบอะไร
+
+จบทางด้านวิศวกรรมเครื่องกล 
 
 #### โปรเจคนี้ทำอะไรบ้าง
 
 เน้นโค้ดโปรแกรม นำไปใช้กับไมโครคอนโทรลเลอร์ได้เช่น arduino, esp32, raspberryPI และ JetsonNANO
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+## Usage/Examples
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
+
+
+## Screenshots
+
+![App Screenshot](https://img2.pic.in.th/pic/66DEE23C-71D7-492E-AC31-3A9CA49F7E85.jpg)
 
