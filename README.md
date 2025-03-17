@@ -13,9 +13,6 @@ A brief description of what this project does and who it's for
 
 ## FAQ
 
-#### ผู้เขียน github นี้จบอะไร
-
-จบทางด้านวิศวกรรมเครื่องกล 
 
 #### โปรเจคนี้ทำอะไรบ้าง
 
