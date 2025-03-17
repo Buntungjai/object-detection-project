@@ -1,5 +1,5 @@
 
-# โปรเจคงานทางด้าน AI (computer vision)
+# เน้นโปรเจคงานทางด้าน AI (computer vision)
 
 A brief description of what this project does and who it's for
 
